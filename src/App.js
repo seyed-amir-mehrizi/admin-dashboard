@@ -11,6 +11,7 @@ function App() {
         <Sidebar />
         <div className="others">
           <Home />
+          
         </div>
         
       </div>
